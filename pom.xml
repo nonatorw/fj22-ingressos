@@ -9,6 +9,13 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
+	<!-- 2.2.8) Definindo o desenvolvedor no <<pom.xml>> -->
+	<developers>
+		<developer>
+			<name>W. Rodrigo Nonato</name>
+			<email>nonatorw@yahoo.com.br</email>
+		</developer>
+	</developers>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
