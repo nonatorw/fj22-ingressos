@@ -27,12 +27,13 @@
 
     <dependencies>
 
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<version>4.12</version>
-		</dependency>
-        
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.12</version>
+        </dependency>
+
+
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-core</artifactId>
@@ -47,7 +48,7 @@
 
         <dependency>
             <groupId>org.springframework</groupId>
-            <artifactId>spriwarng-orm</artifactId>
+            <artifactId>spring-orm</artifactId>
             <version>4.3.5.RELEASE</version>
         </dependency>
 
@@ -71,7 +72,7 @@
 
         <dependency>
             <groupId>org.springframework.integration</groupId>
-            <artifactId>sprwaring-integration-mail</artifactId>
+            <artifactId>spring-integration-mail</artifactId>
             <version>4.3.5.RELEASE</version>
         </dependency>
 
